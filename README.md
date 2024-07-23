@@ -58,7 +58,7 @@ This will install all the packages I have used for development allowing you to r
 ### Open the Web Page:
 
 - Type 'npm start' in the terminal
-- Wait for this to run, it should open the Babel page in your browser - if it doesn't, go to the URL: [http](http://localhost:4200/)
+- Wait for this to run, it should open the Babel page in your browser - if it doesn't, go to the URL: http://localhost:4200/
 
 
 ## Using the Project:
