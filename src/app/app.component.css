@@ -1,0 +1,36 @@
+.container {
+    flex-direction: column;
+}
+
+div {
+    margin: 5px;
+    outline: 2px solid black;
+}
+
+#page-container {
+    height: 200vh;
+}
+#toolbar {
+    height: 40px;
+}
+#babel-container {
+    height: 90%;
+    padding: 10px;
+}
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    padding: 0px;
+    height: 20px;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 0px;
+    font-size: 10px;
+    color: white;
+}
