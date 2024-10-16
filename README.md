@@ -1,6 +1,11 @@
 # BabelArt
 
-This is a private project that generates a Canvas of Babel and the CSV files for stencils that can be used to paint it.
+This is a project I created for my uncle that generates a Canvas of Babel and the CSV files for stencils that can be used to paint it.
+A Canvas of Babel is a grid of X by X dimensions containing random coloured tiles such that tiles of the same colour do not touch.
+
+This project is currently very simple but has room for an extension:
+
+Can a singular physical stencil (a sheet of thin plastic with tile holes cut out) be rotated and flipped in a way that it can be used to colour every tile the correct colour whilst also looking random?
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
@@ -88,7 +93,3 @@ Follow steps above to change the colours but instead change the variables:
 
 - 'num_rows' - for the number of rows
 - 'num_columns' - for the number of columns
-
-## Getting Help
-
-Ring your nephew!
